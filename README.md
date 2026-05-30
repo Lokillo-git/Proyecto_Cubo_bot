@@ -28,9 +28,9 @@ El repositorio incluye código fuente para el robot, herramientas de grabación 
 | Alimentación                 | Según versión del proyecto |
 | Lector RFID                  | MFRC522                    |
 | Tipo de tarjetas             | MIFARE Classic             |
-| Capacidad máxima de comandos | 30                         |
-| Distancia por movimiento     | 15 cm                      |
-| Pasos de avance              | 5858                       |
+| Capacidad máxima de comandos | 30 (Modificable)           |
+| Distancia por movimiento     | 16 cm                      |
+| Pasos de avance              | 6250                       |
 | Pasos de retroceso           | 5858                       |
 | Pasos por centímetro         | 390.53                     |
 | Giro de 90°                  | 3554 pasos                 |
