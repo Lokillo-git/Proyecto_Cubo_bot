@@ -26,7 +26,8 @@ const byte halfstep[8][4] PROGMEM = {
 };
 
 // PARÁMETROS CALIBRADOS
-const int pasosAvance = 5858;
+//const int pasosAvance = 5858; //Para cuadros de 15x15cm
+const int pasosAvance = 6250; //Para cuadros de 16x16cm
 const int pasosGiro90 = 3554;
 const int ajustePostGiro = 1000;
 
