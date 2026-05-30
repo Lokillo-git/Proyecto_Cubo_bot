@@ -58,7 +58,7 @@ El repositorio incluye código fuente para el robot, herramientas de grabación 
 
 La versión actual está calibrada para desplazarse sobre tableros educativos con celdas de:
 
-* 15 cm × 15 cm
+* 16 cm × 16 cm
 
 Relación de movimiento aproximada:
 
